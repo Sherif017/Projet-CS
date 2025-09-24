@@ -1,0 +1,9 @@
+# Node / Nest
+node_modules/
+dist/
+coverage/
+
+# Env / OS
+.env
+.env.*
+.DS_Store
