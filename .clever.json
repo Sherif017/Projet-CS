@@ -1,0 +1,12 @@
+{
+  "type": "node",
+  "build": {
+    "commands": [
+      "npm install",
+      "npm run build"
+    ]
+  },
+  "deploy": {
+    "goal": "dist/main.js"
+  }
+}
